@@ -19,7 +19,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git python -y ; git clone https://github.com/MMAB-313/FloodDOS.git ; cd FloodDOS ; python FDos.py
+apt update ; apt install git python -y ; git clone https://github.com/MMAB-313/FloodDOS.git ; cd FloodDOS ; pip install -r requirements.txt ; python FDos.py
 ```
 
 ### I am Not Responsible for the Misuse of this Tool !!
