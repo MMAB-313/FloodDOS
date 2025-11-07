@@ -13,7 +13,8 @@
 * `apt install git python -y`
 * `git clone https://github.com/MMAB-313/FloodDOS.git`
 * `cd FloodDOS`
-
+* `pip install -r requirements.txt`
+* `clear`
 #### > Run : `python FDos.py`
 
 
